@@ -1,0 +1,68 @@
+body {
+
+  font-family: Helvetica;
+
+  margin: 10;
+
+  padding: 0;
+
+  background-color: blanchedalmond;
+
+  color: salmon;
+
+}
+
+    
+
+}
+
+
+
+#container {
+
+  padding: 50px 0;
+
+  width: 500px;
+
+  margin: 0 auto;
+
+}
+
+
+
+.link {
+
+  list-style: none;
+
+  color:salmon;
+
+  font-size: 2em;
+
+}
+
+
+
+.link a {
+
+  color: salmon;
+
+}
+
+
+
+a {
+
+  color: salmon;
+
+  transition: color 500ms
+
+}
+
+
+
+a:hover {
+
+  color: blueviolet;
+
+}
+
